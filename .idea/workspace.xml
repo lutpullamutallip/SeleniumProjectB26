@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00a8a57c-f487-4587-bd44-6991be172f3f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/CydeoPracticePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/DynamicLoadedPage7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/DynamicallyLoadedPage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/pages/JSExecuterScrollPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/SeleniumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day10_utilities_windows/T1_iFrame_crm_appreciationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day10_utilities_windows/T2_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day10_utilities_windows/T3_windows_handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day11_Multiple_Windows/T1_Multiple_Windows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day11_Multiple_Windows/T2_WebTablesPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day12_LearningProperties/LearningProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day13_configuration_reader/ReadingProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day13_configuration_reader/T1_Config_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day14_driverUtil_javaFaker/GoogleSearch_DriverPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day14_driverUtil_javaFaker/JavaFakerPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day14_driverUtil_javaFaker/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day14_driverUtil_javaFaker/SingletonPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day15_upload_actions/T1_JavaFaker_Registration_Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day15_upload_actions/T2_Guru99_Upload_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day15_upload_actions/T3_Actions_Hover_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day16_actions_jsexecutor/T1_Guru99_DragandDrop_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day16_actions_jsexecutor/T2_Actions_Scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day16_actions_jsexecutor/T3_JSExecutor_Scroll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day17_pom_synchronization/DynamicallyLoadedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day17_pom_synchronization/POM_ActionsPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day17_pom_synchronization/T1_ActionsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day18_Practice/JSExecuterScrollTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day18_Practice/T5_dynamicallyLoadedPage1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day1_selenium_intro/Basic_Navigations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day1_selenium_intro/Cydeo_Verification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day1_selenium_intro/Yahoo_Verification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day2_locators/T1_FacebookTitleVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day2_locators/T2_LinkTextPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day2_locators/T3_GoogleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day3_Css_getText_getAttribute/T1_Locators_getText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day3_Css_getText_getAttribute/T2_getText_getAttribute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day3_Css_getText_getAttribute/T3_getAttribute_Css.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day3_Css_getText_getAttribute/T4_cssSelector_getText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day4_cssSelector_xpath/T1_xpath_css_isDisplayed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day5_findElements_checkBox_radioButton/T1_isDisplayedFalse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day5_findElements_checkBox_radioButton/T2_findElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day5_findElements_checkBox_radioButton/T3_checkBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day5_findElements_checkBox_radioButton/T4_2_RadioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day5_findElements_checkBox_radioButton/T4_radioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day6_StaleElement_TestNG/T1_StaleElementRefException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day6_StaleElement_TestNG/TestNG_Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day7_testNG_dropDown_alert_iframe/AlertPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day7_testNG_dropDown_alert_iframe/T1_SimpleDropdowns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day7_testNG_dropDown_alert_iframe/T2_StateDropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day7_testNG_dropDown_alert_iframe/TC_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day7_testNG_dropDown_alert_iframe/TestNG_Selenium.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day8_dropdown_alert_iframe/AlertPractices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/day9_iframe/IframePractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/utilities/CRM_utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/utilities/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/cydeo/test/utilities/WebTableUtils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2LQFLH6GVZJ2iCTK1FkrnRxaGY3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.JSExecuterScrollTest.js_executer_scroll_test">
+    <configuration name="DynamicallyLoadedTest.dynamically_Loaded_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectB26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.test.day17_pom_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.test.day17_pom_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.test.day17_pom_synchronization.DynamicallyLoadedTest" />
+      <option name="METHOD_NAME" value="dynamically_Loaded_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSExecuterScrollTest.js_executer_scroll_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectB26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.test.day18_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.test.day18_Practice" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.test.day18_Practice.JSExecuterScrollTest" />
+      <option name="METHOD_NAME" value="js_executer_scroll_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POM_ActionsPractices" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectB26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.test.day17_pom_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.test.day17_pom_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.test.day17_pom_synchronization.POM_ActionsPractices" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="POM_ActionsPractices.drop_here_text" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectB26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.test.day17_pom_synchronization.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.test.day17_pom_synchronization" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.test.day17_pom_synchronization.POM_ActionsPractices" />
+      <option name="METHOD_NAME" value="drop_here_text" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T5_dynamicallyLoadedPage1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjectB26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cydeo.test.day18_Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cydeo.test.day18_Practice" />
+      <option name="MAIN_CLASS_NAME" value="com.cydeo.test.day18_Practice.T5_dynamicallyLoadedPage1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.JSExecuterScrollTest.js_executer_scroll_test" />
+        <item itemvalue="TestNG.T5_dynamicallyLoadedPage1" />
+        <item itemvalue="TestNG.DynamicallyLoadedTest.dynamically_Loaded_Test" />
+        <item itemvalue="TestNG.POM_ActionsPractices" />
+        <item itemvalue="TestNG.POM_ActionsPractices.drop_here_text" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00a8a57c-f487-4587-bd44-6991be172f3f" name="Changes" comment="" />
+      <created>1675795349208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675795349208</updated>
+      <workItem from="1675795350961" duration="1893000" />
+      <workItem from="1676502972703" duration="1817000" />
+      <workItem from="1676506233389" duration="599000" />
+      <workItem from="1676508834182" duration="48744000" />
+      <workItem from="1677263898037" duration="64302000" />
+      <workItem from="1677808907332" duration="4566000" />
+      <workItem from="1678286454376" duration="37000" />
+      <workItem from="1678350217618" duration="638000" />
+      <workItem from="1678479092365" duration="2170000" />
+      <workItem from="1678743676372" duration="3039000" />
+      <workItem from="1686072827829" duration="1021000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
